@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/capreswebnew/static/css/main.0d6373e2.css",
+    "main.js": "/capreswebnew/static/js/main.cc1a6f29.js",
+    "static/js/787.67a88f2b.chunk.js": "/capreswebnew/static/js/787.67a88f2b.chunk.js",
+    "static/media/img6.jpg": "/capreswebnew/static/media/img6.83f88bbda66897c9390b.jpg",
+    "static/media/squares.png": "/capreswebnew/static/media/squares.b3b69d227da73257abc7.png",
+    "static/media/capres.jpg": "/capreswebnew/static/media/capres.0ee1930dabd1bd7f17ad.jpg",
+    "index.html": "/capreswebnew/index.html",
+    "main.0d6373e2.css.map": "/capreswebnew/static/css/main.0d6373e2.css.map",
+    "main.cc1a6f29.js.map": "/capreswebnew/static/js/main.cc1a6f29.js.map",
+    "787.67a88f2b.chunk.js.map": "/capreswebnew/static/js/787.67a88f2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d6373e2.css",
+    "static/js/main.cc1a6f29.js"
+  ]
+}
